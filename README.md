@@ -5,7 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/chinmayagare](https://github.com/chinmayagare)
 
-- 📝 My linked in link [linkedin.com/in/chinmay-agare](linkedin.com/in/chinmay-agare)
+- 📝 My linked in link [linkedin.com/in/chinmay-agare](https://www.linkedin.com/in/chinmay-agare
+)
 
 - 💬 Ask me about **Data cleaning,data analysis,visualization,nodel building, dashboards**
 
