@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **chinmayagare1998@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/hg36onh5ec9w](https://flowcv.com/resume/hg36onh5ec9w)
+- 📄 Know about my experiences https://drive.google.com/file/d/13xYlV4g_J1oX4XusSLcyKRmZWhQG1kY3/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
